@@ -1,0 +1,43 @@
+// Sample Data
+
+GET : 
+
+{
+  "date": "2017-11-09",
+  "doDate": "2017-11-10",
+  "alias": "pemudahijrah"
+}
+
+USER : 
+
+{
+  "alias": "muhammad.irfan.firdaus",
+  "username": "Muhammad Irfan Firdaus",
+  "descriptionProfile": "for live <- Bismillah to Alhamdulillah do\nwriteln('Be Grateful') \nendfor",
+  "urlProfile": "https://www.instagram.com/muhammad.irfan.firdaus",
+  "urlImgProfile": "https://scontent-sin6-2.cdninstagram.com/t51.2885-19/s320x320/17932567_1377933002265218_3363068811354832896_a.jpg",
+  "website": "null",
+  "numberPosts": 7,
+  "numberFollowers": 85,
+  "numberFollowing": 123,
+  "private": "false",
+  "isOfficial": "false"
+}
+
+Post : 
+
+{
+    "alias" : "muhammad.irfan.firdaus",
+    "url": "https://www.instagram.com/p/BbO2sPJHHRC",
+    "urlImage": "https://scontent-sin6-2.cdninstagram.com/t51.2885-15/e35/23279633_1347521252042053_1368083479052419072_n.jpg",
+    "width": 1080,
+    "height": 1080,
+    "numberLikes": 11,
+    "numberComments": 4,
+    "isVideo": true,
+    "multipleImage": true,
+    "tags" :"#blackandwhite#logger#middleware#work#dsi",
+    "mentions": "null",
+    "description": "#blackandwhite#logger#middleware#work#dsi",
+    "date": "2017-11-08T11:11:09.000Z"
+}
